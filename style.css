@@ -1,0 +1,21 @@
+.links{
+    display: none;
+    list-style-type: none;
+}
+
+.menu{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+header{
+    background-color: gainsboro;
+    margin: 15px;
+    
+}
+
+section{
+    text-align: center; 
+}
